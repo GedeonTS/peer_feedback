@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import './style.css';
 import imgDots from './images/dots.png';
 import imgTrash from './images/bin.png';
